@@ -2,7 +2,7 @@ title: Stackbit Fjord Theme
 baseurl: /
 permalink: '/:title/'
 description: A minimal blogging theme for Stackbit
-palette: yellow
+palette: green
 header:
   type: header
   template: header
