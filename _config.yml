@@ -3,11 +3,11 @@ title: ZeroCode Test Blog
 baseurl: "/"
 permalink: "/:title/"
 description: A minimal blogging theme for Stackbit and ZeroCode
-palette: red
+palette: blue
 header:
   type: header
   template: header
-  title: Fjord
+  title: ZeroCode Stackbit Test
   tagline: Minimal and clean blog theme
   logo_img: images/logo.png
   background_img: images/header-bg.jpg
