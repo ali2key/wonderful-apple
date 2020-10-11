@@ -3,7 +3,7 @@ title: ZeroCode Test Blog
 baseurl: "/"
 permalink: "/:title/"
 description: A minimal blogging theme for Stackbit and ZeroCode
-palette: green
+palette: red
 header:
   type: header
   template: header
