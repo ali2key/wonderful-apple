@@ -1,5 +1,5 @@
 ---
-title: Testujemy Stackbit na blogu ZeroCode.pl
+title: 
 date: 2020-10-10 22:00:00 +0000
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
